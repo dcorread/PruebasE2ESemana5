@@ -11,11 +11,13 @@
 - Diego Correa
 - Julio Cardenas
 
+## Code Repositories for each project.
+- **Github Link to the code of Playwright:** https://github.com/dcsm8/uniandes-playwright
+- **Github Link to the code of Playwright:** https://github.com/dcsm8/uniandes-playwright
+
 # E2E test Ghost CMS App using Playwright
 
 This project demonstrates the use of Playwright to E2E testing on the Ghost CMS application.
-
-**Github Link to the code of Playwright:** https://github.com/dcsm8/uniandes-playwright
 
 This project aims to test the Ghost CMS application using E2E tests.
 
@@ -86,8 +88,6 @@ npx playwright test --ui
 
 # E2E test Ghost CMS App using Kraken
 This project demonstrates the use of Kraken to E2E testing on the Ghost CMS application.
-
-**Github Link to the code of Kraken:** https://github.com/julio-c-s/kraken
 
 ## Prerequisites
 
