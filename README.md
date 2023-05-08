@@ -82,7 +82,8 @@ npx playwright test --ui
 
 # E2E test Ghost CMS App using Kraken
 This project demonstrates the use of Kraken to E2E testing on the Ghost CMS application.
-**Github Link to the code of Playwright:** https://github.com/julio-c-s/kraken
+
+**Github Link to the code of Kraken:** https://github.com/julio-c-s/kraken
 
 ## Prerequisites
 
