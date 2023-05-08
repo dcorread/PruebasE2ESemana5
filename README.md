@@ -3,7 +3,7 @@
 
 - University: Universidad de los Andes
 - Project: E2E testing of the Ghost CMS application
-
+- Wiki: The project's wiki contains all the information regarding the repository, including detailed test scenarios. Make sure to check the wiki for more information.
 ## Members
 
 - David Sánchez
@@ -79,6 +79,10 @@ export const config = {
 ```bash
 npx playwright test --ui
 ```
+## Playwright Test
+
+![image](https://user-images.githubusercontent.com/124226083/236722304-27b6193d-e8a3-4d48-a919-dbc648fea743.png)
+
 
 # E2E test Ghost CMS App using Kraken
 This project demonstrates the use of Kraken to E2E testing on the Ghost CMS application.
