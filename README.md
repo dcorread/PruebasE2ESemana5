@@ -13,7 +13,7 @@
 
 ## Code Repositories for each project.
 - **Github Link to the code of Playwright:** https://github.com/dcsm8/uniandes-playwright
-- **Github Link to the code of Playwright:** https://github.com/dcsm8/uniandes-playwright
+- **Github Link to the code of Kraken:** https://github.com/julio-c-s/kraken
 
 # E2E test Ghost CMS App using Playwright
 
