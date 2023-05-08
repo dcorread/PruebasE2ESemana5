@@ -15,7 +15,7 @@
 
 This project demonstrates the use of Playwright to E2E testing on the Ghost CMS application.
 
-Github Link to the code of Playwright
+Github Link to the code of Playwright: https://github.com/dcsm8/uniandes-playwright
 
 This project aims to test the Ghost CMS application using E2E tests.
 
