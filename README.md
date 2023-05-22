@@ -1,4 +1,13 @@
-# PruebasE2ESemana6
+# PruebasE2ESemana7
+
+## Code Repositories for each project.
+- **Link to Playwright Readmi:** https://github.com/dcsm8/uniandes-playwright
+- **Link to Kraken Readmi:** https://github.com/julio-c-s/kraken
+
+**Favor ver los repositorios de cada herramienta para ver el codigo**
+
+## Issues: https://github.com/dcorread/PruebasE2ESemana7/issues
+
 ## Project Information
 
 - University: Universidad de los Andes
@@ -14,10 +23,6 @@
 
 ## Video
 - https://drive.google.com/file/d/1mWSz0lqBz8RPm15IoKEt4WB66b6jJBs6/view?usp=sharing
-
-## Code Repositories for each project.
-- **Link to Playwright Readmi:** https://github.com/dcsm8/uniandes-playwright
-- **Link to Kraken Readmi:** https://github.com/julio-c-s/kraken
 
 # Kraken
 ## Installation
